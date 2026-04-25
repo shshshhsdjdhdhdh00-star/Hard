@@ -1,4 +1,4 @@
-# place(-3.628, 1.000, 39.673, "Military Base", 700)
+place(-3.628, 1.000, 39.673, "Military Base", 700)
 upgrade(-3.628, 2.075, 39.673, 350)
 place(1.086, 1.000, 33.091, "Military Base", 422)
 place(1.408, 1.000, 33.162, "Military Base", 768)
